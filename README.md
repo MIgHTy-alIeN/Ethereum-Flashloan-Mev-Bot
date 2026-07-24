@@ -1,7 +1,7 @@
 
 # MEV Arbitrage Bot for Ethereum — Smart Contract + Python Automation. Finds and executes arbitrage between Uniswap pools and routers.
 
-
+![EtherLab](https://i.ibb.co/d0sTDjY0/Chat-GPT-Image-25-2026-02-40-27.png)
 
 An arbitrage bot is a smart contract that searches for and executes arbitrage opportunities between pools and routers, holding ETH/tokens on its balance. Below is a step-by-step guide on how to deploy your bot and get it running without a single manual call.
 
